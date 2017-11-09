@@ -1,8 +1,71 @@
 *{
   font-family: Helvetica;
+  text-align: center;
 
 }
 h1{
 
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+li{
 
+  font-size: 18px;
+  color: white;
+}
+.heading{
+  background-image: url(/Users/KG/Desktop/kjg614.github.io/resources/images/the-flatiron-building.png);
+}
+#designed{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+background-image: url(/Users/KG/Desktop/kjg614.github.io/resources/images/the-flatiron-building.png);
+}
+ul{
+  list-style-type: none;
+}
+p{
+  font-size: 14px;
+}
+.footer{
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+}
+a{
+  color: white;
+}
+
+.identify{
+  font-size: 23px;
+  font weight: bold;
+}
+.understand{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.execute{
+  font-size: 23px;
+  font-weight: bold;
+}
+.portfolio{
+  font-size: 23px;
+  font-weight: bold;
+}
+.team{
+  font-size: 23px;
+  font weight:bold;
+}
+.contact{
+  font-size: 23px;
+  font-weight: bold;
 }
